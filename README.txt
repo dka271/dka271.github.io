@@ -1,8 +1,8 @@
 
 TITLE: 
-Wedding Free HTML5 Bootstrap Template for Wedding Website
+Simple one page wedding website
 AUTHOR:
-DESIGNED & DEVELOPED by QBOOTSTRAP.COM
+Daniel Amick
 
 Website: 		http://qbootstrap.com/
 Twitter: 		http://twitter.com/Q_bootstrap
